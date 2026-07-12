@@ -1,16 +1,16 @@
-## Hi there 👋
+Who are you?
+Hi, I'm Michael Yang 👋 — an entry-level IT Support professional based in Brooklyn Park, MN. I earned my Associate of Applied Science in IT Support from Hennepin Technical College in 2024, and I'm actively building hands-on experience toward a Help Desk / IT Support role.
 
-<!--
-**learningwithmike/learningwithmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What are you currently working on?
+Right now I'm sharpening my troubleshooting skills through IT Support Simulation training — I've completed 100+ simulated help desk tickets covering Windows, Microsoft 365, printers, networking, user accounts, and software installs. I'm also working on documenting what I learn (ticket notes, knowledge base articles, troubleshooting guides) to build good habits for a real help desk environment.
 
-Here are some ideas to get you started:
+What tools do you use?
+OS: Windows 10/11 (installs, configuration, BIOS, partitioning, updates)
+Support: Ticket documentation, root cause analysis, remote troubleshooting
+Productivity: Microsoft 365, Microsoft Project, Excel
+Skills: Hardware/software installation, printer & connectivity troubleshooting, user account & password support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to reach you?
+📧 ymike309@gmail.com
+📱 763-232-4402
+💼 LinkedIn: michael-yang-842444278

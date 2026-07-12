@@ -9,8 +9,11 @@ Right now I'm sharpening my troubleshooting skills through IT Support Simulation
 What tools do I use?
 
 OS: Windows 10/11 (installs, configuration, BIOS, partitioning, updates)
+
 Support: Ticket documentation, root cause analysis, remote troubleshooting
+
 Productivity: Microsoft 365, Microsoft Project, Excel
+
 Skills: Hardware/software installation, printer & connectivity troubleshooting, user account & password support
 
 How to reach me?
